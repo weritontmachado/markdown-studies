@@ -66,7 +66,13 @@ Get from: [shields.io](https://shields.io/)
 
 #### - Raw image stored in a github repository (resized)
 
-<img src="https://raw.githubusercontent.com/weritontmachado/markdown-studies/master/img/sami-hobbs-EU4Cs2zKFTk-unsplash.jpg?raw=true" alt="github hosted image"  width="320" height="479" />
+##### Method 1 (image need to be resized)
+
+<img src="https://raw.githubusercontent.com/weritontmachado/markdown-studies/master/img/sami-hobbs-EU4Cs2zKFTk-unsplash.jpg?raw=true" alt="github repository image"  width="320" height="479" />
+
+##### Method 2 (image on the right size)
+
+![github repository image](img/sami-hobbs-EU4Cs2zKFTk-unsplash-resized.jpg)
 
 *Photo by [Sami Hobbs](https://unsplash.com/@sahobbs "Sami Hobbs") on [Unsplash](https://unsplash.com/photos/EU4Cs2zKFTk "Unsplash")*
 
