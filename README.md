@@ -15,11 +15,17 @@ Project to test markdown formatting capabilities in readme.md
 ### 2. Style 
 
 **Bold text**
+
 __Bold text 2__
+
 *Italic text*
+
 ~~StrikThrough text~~
+
 **Bold and _Italic_ text**
+
 ***All Bold and Italic text***
+
 > Block quote text
 
 
