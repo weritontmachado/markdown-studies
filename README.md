@@ -59,7 +59,7 @@ __Bold text 2__
 
 *Photo by [Sami Hobbs](https://unsplash.com/@sahobbs "Sami Hobbs") on [Unsplash](https://unsplash.com/photos/EU4Cs2zKFTk "Unsplash")*
 
-*\*tip on how to make the resize taken from:: [https://gist.github.com/wsdjeg/2efbe64a745d9d98d92ccdddec3503b4](https://gist.github.com/wsdjeg/2efbe64a745d9d98d92ccdddec3503b4)*
+*\*tip on how to make the resize taken from: [https://gist.github.com/wsdjeg/2efbe64a745d9d98d92ccdddec3503b4](https://gist.github.com/wsdjeg/2efbe64a745d9d98d92ccdddec3503b4)*
 
 ### 2. Base64 images
 
