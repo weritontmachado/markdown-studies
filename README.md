@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/issues/weritontmachado/markdown-studies) ![](https://img.shields.io/github/forks/weritontmachado/markdown-studies) ![](https://img.shields.io/github/stars/weritontmachado/markdown-studies) ![](https://img.shields.io/github/license/weritontmachado/markdown-studies)![](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2F_TomMachado_&) 
+![](https://img.shields.io/github/issues/weritontmachado/markdown-studies) ![](https://img.shields.io/github/forks/weritontmachado/markdown-studies) ![](https://img.shields.io/github/stars/weritontmachado/markdown-studies) ![](https://img.shields.io/github/license/weritontmachado/markdown-studies) ![](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2F_TomMachado_)
 
 # markdown-studies
 Project to test markdown formatting capabilities in readme.md
