@@ -7,34 +7,36 @@ Project to test markdown formatting capabilities in readme.md
 
 ### 1. Titles
 
-# H1 text
-## H2 text
-### H3 text
-#### H4 text
-##### H5 text
-###### H6 text
+# H1 text \(\#\)
+## H2 text \(\#\#\)
+### H3 text \(\#\#\#\)
+#### H4 text \(\#\#\#\#\)
+##### H5 text \(\#\#\#\#\#\)
+###### H6 text \(\#\#\#\#\#\#\)
 
 ### 2. Style 
 
-**Bold text**
+**Bold text** \(\*\* text \*\*\)
 
-__Bold text 2__
+__Bold text 2__ \(\_\_ text \_\_\)
 
-*Italic text*
+*Italic text* \(\* text \*\)
 
-~~StrikThrough text~~
+~~StrikThrough text~~ \(\~\~ text \~\~\)
 
-**Bold and _Italic_ text**
+**Bold and _Italic_ text** \(\*\* text \_ text \_ text \*\*\)
 
-***All Bold and Italic text***
+***All Bold and Italic text*** \(\*\*\* text \*\*\*)
 
-> Block quote text
+> Block quote text \(\> text \)
 
 
 [========]
 
 
 ## Images
+
+\!\[\alternative text]\( path to image \)
 
 ### 1. URL based images
 
