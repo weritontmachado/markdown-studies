@@ -46,7 +46,7 @@ __Bold text 2__
 
 #### - Regular images
 
-<img src="https://images.unsplash.com/photo-1489186397658-228f2a7ac8ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="github hosted image"  width="320" height="479" />
+<img src="https://images.unsplash.com/photo-1489186397658-228f2a7ac8ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="github hosted image"  width="320" height="213" />
 
 *Photo by [Peter Gabas](https://unsplash.com/@petergabas "Peter Gabas") on [Unsplash](https://unsplash.com/photos/IDNBHZTamQ8 "Unsplash")*
 
