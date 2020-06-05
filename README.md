@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/issues/weritontmachado/markdown-studies) ![](https://img.shields.io/github/forks/weritontmachado/markdown-studies) ![](https://img.shields.io/github/stars/weritontmachado/markdown-studies) ![](https://img.shields.io/github/license/weritontmachado/markdown-studies?label=GPL) 
+![](https://img.shields.io/github/issues/weritontmachado/markdown-studies) ![](https://img.shields.io/github/forks/weritontmachado/markdown-studies) ![](https://img.shields.io/github/stars/weritontmachado/markdown-studies) ![](https://img.shields.io/github/license/weritontmachado/markdown-studies) 
 
 # markdown-studies
 Project to test markdown formatting capabilities in readme.md
@@ -49,7 +49,9 @@ How to resize: `<img src="[path to image]" alt="[alternative text]" width="200" 
 
 #### - Info badges
 
-![](https://img.shields.io/github/issues/weritontmachado/markdown-studies) ![](https://img.shields.io/github/forks/weritontmachado/markdown-studies) ![](https://img.shields.io/github/stars/weritontmachado/markdown-studies) ![](https://img.shields.io/github/license/weritontmachado/markdown-studies?label=GPL) 
+Get from: [shields.io](https://shields.io/)
+
+![](https://img.shields.io/github/issues/weritontmachado/markdown-studies) ![](https://img.shields.io/github/forks/weritontmachado/markdown-studies) ![](https://img.shields.io/github/stars/weritontmachado/markdown-studies) ![](https://img.shields.io/github/license/weritontmachado/markdown-studies) 
 
 #### - Social medias
 
