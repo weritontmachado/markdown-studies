@@ -53,7 +53,7 @@ __Bold text 2__
 *Photo by [Peter Gabas](https://unsplash.com/@petergabas "Peter Gabas") on [Unsplash](https://unsplash.com/photos/IDNBHZTamQ8 "Unsplash")*
 
 
-#### - Raw image stored in repository (resized)
+#### - Raw image stored in a github repository (resized)
 
 <img src="https://raw.githubusercontent.com/weritontmachado/markdown-studies/master/img/sami-hobbs-EU4Cs2zKFTk-unsplash.jpg?raw=true" alt="github hosted image"  width="320" height="479" />
 
