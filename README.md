@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/issues/weritontmachado/markdown-studies) ![](https://img.shields.io/github/forks/weritontmachado/markdown-studies) ![](https://img.shields.io/github/stars/weritontmachado/markdown-studies) ![](https://img.shields.io/github/license/weritontmachado/markdown-studies?label=GPL) 
+
 # markdown-studies
 Project to test markdown formatting capabilities in readme.md
 
