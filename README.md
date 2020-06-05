@@ -70,11 +70,13 @@ Get from: [shields.io](https://shields.io/)
 
 <img src="https://raw.githubusercontent.com/weritontmachado/markdown-studies/master/img/sami-hobbs-EU4Cs2zKFTk-unsplash.jpg?raw=true" alt="github repository image"  width="320" height="479" />
 
+*Photo by [Sami Hobbs](https://unsplash.com/@sahobbs "Sami Hobbs") on [Unsplash](https://unsplash.com/photos/EU4Cs2zKFTk "Unsplash")*
+
 ##### Method 2 (image on the right size)
 
-![github repository image](img/sami-hobbs-EU4Cs2zKFTk-unsplash-resized.jpg)
+![github repository image](img/steve-johnson-XLrI2IFcQqY-unsplash-resized.jpg)
 
-*Photo by [Sami Hobbs](https://unsplash.com/@sahobbs "Sami Hobbs") on [Unsplash](https://unsplash.com/photos/EU4Cs2zKFTk "Unsplash")*
+*Photo by [Steve Johnson](https://unsplash.com/@steve_j "Steve Johnson") on [Unsplash](https://unsplash.com/photos/XLrI2IFcQqY "Unsplash")*
 
 
 ### 2. Base64 images
